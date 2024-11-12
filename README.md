@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @lyudmylak14
-- 👀 I’m interested in  in front-end development, creating responsive web designs, and exploring new technologies in the JavaScript ecosystem. I’m also passionate about user experience and building intuitive interfaces
-- 🌱 I’m currently learning React concepts and state management libraries
-- 💞️ I’m excited to collaborate on innovative web projects, contribute to open-source initiatives, and work with teams that value creativity and continuous learning. I’m enthusiastic about opportunities to build impactful applications and solve complex problems.
-- 📫 You can contact me via email: lyudmyla.k@hotmail.com or LinkedIn:https://www.linkedin.com/in/lyudmyla-kermach/. Feel free to drop me a message!
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love coding to the aroma of fresh coffee. There's nothing better than a newly brewed cup to ignite my creativity and concentration!
+- 💞️ I enjoy exploring both front-end and back-end technologies and work with HTML, CSS, JavaScript, TypeScript, React, and Node.js
+- 🌱 I’m excited to keep growing as a developer, learning new tools, and building experience across the full stack
+- 🤝 Open to collaborating on projects where I can contribute and expand my skills
+- 📫 You can contact me via email: lyudmyla.k@hotmail.com or LinkedIn:https://www.linkedin.com/in/lyudmyla-kermach/. Let’s connect!
+- ⚡ Fun fact: I love coding accompanied by the aroma of fresh coffee.
 
 <!---
 lyudmylak14/lyudmylak14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
