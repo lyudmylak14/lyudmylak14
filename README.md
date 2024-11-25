@@ -2,7 +2,7 @@
 - 💞️ I enjoy exploring both front-end and back-end technologies and work with HTML, CSS, JavaScript, TypeScript, React, and Node.js
 - 🌱 I’m excited to keep growing as a developer, learning new tools, and building experience across the full stack
 - 🤝 Open to collaborating on projects where I can contribute and expand my skills
-- 📫 You can contact me via email: lyudmyla.k@hotmail.com or LinkedIn:https://www.linkedin.com/in/lyudmyla-kermach/. Let’s connect!
+- 📫 You can contact me via LinkedIn:https://www.linkedin.com/in/lyudmyla-kermach/. Let’s connect!
 - ⚡ Fun fact: I love coding accompanied by the aroma of fresh coffee.
 
 <!---
